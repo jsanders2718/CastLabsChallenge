@@ -1,0 +1,10 @@
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\bin\Debug\MP4 processor.exe
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\bin\Debug\MP4 processor.pdb
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\bin\Debug\MP4 processor.xml
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.exe
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.xml
+D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.pdb
