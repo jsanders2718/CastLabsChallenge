@@ -8,3 +8,15 @@ D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\GenerateReso
 D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.exe
 D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.xml
 D:\My Documents\Cast Labs\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.pdb
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.exe
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.xml
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.pdb
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\bin\Debug\MP4 processor.exe.manifest
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\bin\Debug\MP4 processor.application
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\bin\Debug\MP4 processor.exe
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\bin\Debug\MP4 processor.pdb
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\bin\Debug\MP4 processor.xml
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.vbproj.GenerateResource.Cache
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.exe.manifest
+C:\Users\John\Documents\Projects\MP4 processor\MP4 processor\obj\x86\Debug\MP4 processor.application
