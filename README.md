@@ -1,6 +1,6 @@
 # CastLabsChallenge
 
-Summary: Terrible result, but demonstrates aproach to a challenge. Attempted to set up C++ development environment on available computers, but issues consumed available time. So abandonned C++ and started Vis Basic code to demonstrate some programming capability. Also will attach prior original C++ program to demonstrate basic ability with that language.
+Summary: Terrible result, but demonstrates aproach to a challenge. Attempted to set up C++ development environment on available computers, but issues consumed available time. So abandoned C++ and started Vis Basic code to demonstrate some programming capability. Also will attach prior original C++ program to demonstrate basic ability with that language.
 Deadline: Read unlimited, but in business we need to make firm targets to deliver while relevant. My assessment is that after next weekend may be too late. During the week I need to commit to present employer and resources (Internet access and personal computer) are less than optimal.
 Log:
 open challenge instructions
